@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/profile.png</file>
+    <file>icons/dec.png</file>
+    <file>icons/bib.png</file>
+    <file>icons/decision.png</file>
+    <file>icons/ajouter.png</file>
+    <file>icons/histo.png</file>
+    <file>icons/acc.png</file> 
+</qresource>
+</RCC>
